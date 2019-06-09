@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/tsh-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
